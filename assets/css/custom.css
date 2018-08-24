@@ -1,0 +1,258 @@
+.pull-left{
+	float: left !important;
+}
+.pull-right{
+	float: right !important;
+}
+.project-header{
+	border-bottom: 1px solid #dee2e6;
+	display: flow-root;
+}
+.project-header .nav-tabs-custom{
+	line-height: 50px;
+	padding-right: 10px;
+}
+#DataTables_wrapper .dt-buttons{
+	margin-right: auto!important;
+}
+#DataTables_info{
+	margin: auto;
+}
+.note-codable{
+	width: 100%;
+}
+tbody .odd .dataTables_empty{
+	text-align: center;
+}
+.project-update-button button{
+	margin: auto;
+}
+.padding-top-10{
+	margin-top: 15px;
+}
+.margin-right-auto{
+	margin-right: auto !important;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{
+	background-color: white !important;
+	border-bottom-color: #fb9678;
+	color:#fb9678 !important;
+}
+.navbar-custom-nav{
+	display: table;
+    width: 100%;
+}
+.topbar .top-navbar{
+	margin-bottom:0px !important;
+}
+.dropdown .dropdown-menu a{
+	color: #212529 !important;
+}
+#sidebarnav a{
+	text-decoration: none !important;
+}
+#sidebarnav a:hover,#sidebarnav a:active{
+	text-decoration: none !important;
+	color: #03a9f3;
+}
+.btn-primary{
+	background-color: #fb9678;
+}
+@media (max-width:768px){
+	.nav-tabs .nav-item{
+		width:33%;
+		text-align: center;
+	}
+	.navbar-nav .open .dropdown-menu{
+		background-color: #ffffff !important;
+	}
+	.left-sidebar{
+		padding-top: 110px;
+	}
+	.navbar-nav-menu{
+		display: flex;
+		flex-direction: row-reverse !important;
+		margin-right: 10px;
+	}
+	.fixed-layout .page-wrapper{
+		padding-top: 120px !important;
+	}
+	.navbar-header,.navbar-header-time{
+		display: none !important;
+	}
+}
+@media (min-width:768px){
+.added_key .new-keywork-parent{
+	padding-right: 0px;
+}
+}
+.custom-padding-all{
+	padding-bottom: 5px;
+	padding-top:5px;
+}
+.custom-padding-bottom{
+	padding-bottom: 5px;
+}
+.custom-margin-bottom{
+	margin-bottom: 5px;
+}
+.topnavbar-wrapper .navbar-wrapper{
+	width: 100%;
+}
+.topnavbar-wrapper .right-side-toggle{
+	margin-right: 10px;
+}
+#sidebarnav li span{
+	margin-left: 5px;
+}
+#open_chat_list{
+	border-radius: 100%;
+    background-color: #03a9f3;
+}
+body{
+	font-family: "Poppins", sans-serif !important;
+}
+.btn-primary:hover{
+	background-color: #fa6f46;
+}
+.nav-tabs-custom .tab-content .tab-pane .overflow-part{
+	overflow-x: scroll;
+}
+#industry-seo{
+	overflow-x: scroll;
+}
+#DataTables_wrapper tr th{
+	text-align: center;
+}
+#DataTables tbody tr td{
+	text-align: center;
+}
+.nopadding{
+	padding: 0 !important;
+}
+.additional_email_group{
+	display: flex;
+    flex-direction: column;
+}
+ .additional_times{
+	line-height: 32px;
+	cursor: pointer;
+}
+.additional_times:hover{
+	transform: scale(1.13);
+}
+.additional_plus{
+	color: #03a9f3;
+	line-height: 32px;
+	cursor: pointer;
+}
+.additional_email_group .col-sm-7{
+	padding-left: 0;
+}
+.additional_email_group .col-sm-5{
+	display: flex;
+}
+.additional_email_icon{
+	padding-left: 15px;
+}
+.additional_email_item{
+	margin-bottom: 15px;
+}
+.staff-margin-bottom{
+	margin-bottom: 15px;
+}
+.staff-margin-top{
+	margin-top: 15px;
+}
+.nopaddingleft{
+	padding-left: 0;
+}
+.nopaddingright{
+	padding-right: 0;
+}
+.display-flex{
+	display: flex;	
+}
+.display-none{
+	display: none;
+}
+.staff-type-subconstructor .col-sm-1{
+	vertical-align: baseline;
+    margin: auto;
+}
+.subconstructor-marketplace .subconstructor-marketplace-item, .subconstructor-pay .subconstructor-pay-item{
+	display: inline-flex;
+}
+.top-navbar .nav-item .user-image{
+	border-radius: 100% !important;
+}
+.top-navbar .navbar-nav>li>a{
+	line-height: 30px;
+}
+.nav-stacked .active a{
+	color:#fb9678 !important;
+}
+.new-keyword-group{
+	border: 1px solid black;
+}
+.custom-color{
+	color:#03a9f3;
+}
+.new-industry-group{
+	padding: 20px;
+}
+.industries-header{
+	font-weight: bold;
+	font-size: 15px;
+	padding:20px;
+}
+.industries-header a{
+	color: #515253;
+}
+.display-none{
+	display:none;
+}
+.margin-l-5{
+	margin-left:4px !important;
+}
+.margin-t-5{
+	margin-top: 5px !important;
+}
+.height-100{
+	height: 100%;
+}
+.contacts-form .additional_icon .input-group-addon{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.contacts-form .input-group-addon .fa,.contacts-form .input-group-addon .fas{
+	cursor: pointer;
+}
+.k-multiselect-wrap{
+	border: 1px solid #dde6e9 !important;
+}
+.k-multiselect .k-button{
+	color: #3a3f51 !important;
+}
+.custom-form .additional_icon .input-group-addon{
+	display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.custom-form .input-group-addon .fa,.custom-form .input-group-addon .fas{
+	cursor: pointer;
+}
+#sales_tab .note-editable{
+	height: 200px;
+}
+.custom-list-none{
+	list-style: none;
+}
+.custom-flex-columm{
+	display: flex;
+    flex-direction: column-reverse;
+}
+.note-popover.popover .popover-content{
+	display: none !important;
+}
